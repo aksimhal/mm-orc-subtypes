@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 code/curvature-src-code/.DS_Store
 .DS_Store
+*.mat
+*.tsv
+*.csv
